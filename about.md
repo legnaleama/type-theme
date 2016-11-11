@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
+title: Career Account
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/career-account-feat-header.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Whether you're looking to break into global development for the first time, searching for your next position or exploring new ways to grow professionally, Devex has the tools you need to manage your development career. Join more than 10,000 Devex members who already have access to a Career Account. You'll be in good company.
