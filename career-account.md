@@ -1,7 +1,7 @@
 ---
-layout: landing-header
+layout: ca-template
 title: Career Account
-header-title: GLOBAL DEVELOPMENT IS A BIG JOB
+header-headline: GLOBAL DEVELOPMENT IS A BIG JOB
 header-tagline: Let us help you find yours
 permalink: /career-account/
 feature-img: img/career-account-feat-header.jpg

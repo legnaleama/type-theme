@@ -66,6 +66,15 @@
 
   &-title {
     font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0 0 15px;
+    margin: 0 0 15px;
+    border-bottom: 4px solid;
+    display: inline-block;
+  }
+  &-headline {
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 48px;
     font-weight: 700;
   }
