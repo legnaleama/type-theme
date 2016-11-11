@@ -1,0 +1,51 @@
+<meta charset="utf-8" />
+  <meta charset="utf-8">
+	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+  <link href="https://www.devex.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+  <link rel="stylesheet" href="https://pages.devex.com/rs/devex/images/bootstrap.min.css">
+  <link href="https://pages.devex.com/rs/devex/images/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://d23nuec95rapgw.cloudfront.net/apps/front_end/assets/ui_toolbox/main-e09e666fff8692e0c2c7fd85d0192eb3d8a61ca4c1eb0ffcdf103bb883f2223f.css">
+  <link href="https://devex-cdn.s3.amazonaws.com/toolbox/develop_builds/4164/toolbox.css" media="all" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
+  <link href="https://pages.devex.com/rs/685-KBL-765/images/cv-writing-page.css" rel="stylesheet">
+
+  <script src="//pages.devex.com/rs/devex/images/modernizr-2.6.2-respond-1.1.0.min.js" type="text/javascript"></script>
+  <script>
+    document.domain = 'devex.com';
+
+    window.onload = function(){
+      var returnToPath = encodeURIComponent(document.referrer);
+      returnToPath = "&return_to=" + returnToPath;
+
+      var returnLink = document.getElementById("join-link");
+
+      returnLink.href = returnLink.href + returnToPath;
+    };
+  </script>
+  <style type="text/css">
+    .lpeCElement,
+    .lpContentsItem {
+      width: 100% !important;
+      position: static !important;
+      min-height: 0px !important;
+    }
+  </style>
+  <script>
+    dataLayer = [{
+      "application": "marketo",
+      "page_type": "landing-page",
+    }];
+  </script>
+  <noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-P86NW3" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P86NW3');
+  </script>
+</head>

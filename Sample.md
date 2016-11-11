@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Career Account
-permalink: /about/
+title: Sample
+permalink: /sample
 feature-img: "img/career-account-feat-header.jpg"
 ---
 
