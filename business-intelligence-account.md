@@ -8,11 +8,10 @@ feature-img: img/bia-feat-header.jpg
 hide: false
 ---
 
-*UPGRADE YOUR FUNDING STRATEGY*
-Devex Business Intelligence is the premium service for monitoring funding notices, advance information on business opportunities and big-picture funding trends.
-&nbsp;
 
-![](/uploads/versions/bia-features-list---x----979-401x---.png)
+*UPGRADE YOUR FUNDING STRATEGY* Devex Business Intelligence is the premium service for monitoring funding notices, advance information on business opportunities and big-picture funding trends. &nbsp;
+
+![](/uploads/versions/bia-features-list---x----941-1006x---.png)
 
 &nbsp;
 
