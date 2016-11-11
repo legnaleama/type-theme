@@ -62,15 +62,15 @@
 
 
 // Featured Header
-header {
+.jumbotron {
 
-  .title {
+  &-title {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 48px;
     font-weight: 700;
   }
 
-  .tagline {
+  &-tagline {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;
     font-weight: 300;

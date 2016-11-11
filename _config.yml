@@ -12,9 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <h1 class="jumbotron-title">Hackathon Marketing Site</h1>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <h3 class="jumbotron-tagline">Testing enviornment to migrate Marketo landing pages to Jekyll</h3>
   header_text_feature_image:
   footer_text: >
     Founded in 2000, <strong>Devex</strong> serves a global community of 750,000+ development professionals and 1,400 funding agencies, companies, and NGOs in over 100 countries. Learn more about Devex and how we serve the global development community.
