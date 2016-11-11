@@ -1,20 +1,22 @@
 .site-header {
   @extend %padding-small;
   background: $brand-color;
-  border-bottom: 1px solid $border-color;
+  // border-bottom: 1px solid $border-color;
   display: inline-block;
   // float: left;
   width: 100%;
 
   a {
     color: $header-link-color;
+    font-size: 12px;
+    margin-left: 1.5em;
   }
 
   .avatar {
-    height: 2em;
+    height: 3em;
     // width: 2em;
     float: left;
-    margin-top: -3px;
+    margin-top: -10px;
     border-radius: 0.2em;
     margin-right: 1em;
   }
@@ -26,7 +28,13 @@
     line-height: 1.5;
   }
 
+  .branding {
+    display: inline-block;
+  }
+
   .site-nav {
+    display: inline;
+
     ul {
       margin: 0;
       padding: 0;

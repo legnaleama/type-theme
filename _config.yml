@@ -17,7 +17,9 @@ theme_settings:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    Founded in 2000, <strong>Devex</strong> serves a global community of 750,000+ development professionals and 1,400 funding agencies, companies, and NGOs in over 100 countries. Learn more about Devex and how we serve the global development community.
+    <br />© <em>Copyright 2015 Devex</em>
+
 
   # Icons
   rss: false
@@ -27,7 +29,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
