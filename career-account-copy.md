@@ -1,10 +1,10 @@
 ---
 layout: ca-template
-title: Career Account2
-header-headline: GLOBAL DEVELOPMENT IS A BIG JOB
-header-tagline: Let us help you find yours
-permalink: /career-account2/
-feature-img: img/career-account-feat-header.jpg
+title: New Era
+header-headline: PLEASE USE THIS NEW WORKFLOW
+header-tagline: This is an awesome test
+permalink: /test-page-katelyn/
+feature-img: img/recruitment-account-feat-header.jpg
 hide: false
 ---
 
