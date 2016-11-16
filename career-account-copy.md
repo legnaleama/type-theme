@@ -4,7 +4,7 @@ title: New Era
 header-headline: PLEASE USE THIS NEW WORKFLOW
 header-tagline: This is an awesome test
 permalink: /test-page-katelyn/
-feature-img: img/recruitment-account-feat-header.jpg
+feature-img: img/tta-feat-header.jpg
 hide: false
 ---
 
